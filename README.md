@@ -1,1 +1,1 @@
-# vero-cappuccino-hut
+rm README.md
